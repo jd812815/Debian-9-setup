@@ -8,3 +8,6 @@ https://www.unrealircd.org/docs/Cron_job
 
 XMPP:
 https://docs.ejabberd.im/admin/installation/#install-on-linux
+
+TOR:
+https://medium.com/@ajphillips/how-to-create-your-own-tor-hidden-service-436bece8602f
