@@ -6,3 +6,6 @@ apt-get install tor
 
 (For xmpp server)
 apt-get install make gcc libexpat-dev libyaml-dev erlang openssl zlib1g-dev autoconf libssl-dev g++
+
+php7:
+https://computingforgeeks.com/how-to-install-latest-php-on-debian/
